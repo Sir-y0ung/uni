@@ -1,0 +1,3 @@
+D:/Coddingg/C/Uni/weekly3/cmake-build-debug/CMakeFiles/weekly3.dir
+D:/Coddingg/C/Uni/weekly3/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Coddingg/C/Uni/weekly3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
